@@ -3,10 +3,10 @@
 include 'globalcon.php';
 
 //DATABASE CONNECTION VARIABLES
-$host = "mysql1.000webhost.com"; // Host name
-$username = "a5364058_ring"; // Mysql username
-$password = “QWeasd123”; // Mysql password
-$db_name = "a5364058_ring"; // Database name
+$host = “localhost/”; // Host name
+$username = “root”; // Mysql username
+$password = ‘’; // Mysql password
+$db_name = “login”; // Database name
 $tbl_name = "members"; // Table name
 
 //Set this for global site use

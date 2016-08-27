@@ -1,6 +1,6 @@
 <?php
-require 'scripts/PHPMailer/class.phpmailer.php';
-require 'scripts/class.loginscript.php';
+//require 'scripts/PHPMailer/class.phpmailer.php';
+//require 'scripts/class.loginscript.php';
 include_once 'config.php';
 
 	//Pull username, generate new ID and hash password
